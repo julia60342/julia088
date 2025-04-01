@@ -1,0 +1,8 @@
+Controlar o versionamento de código, rastrear mudanças, colaborar de forma eficiente e garantir que o trabalho em equipe flua sem problemas
+PASSO1: em github,acesse o repositorio do seu site
+PASSO2: de forma opcional,voce pode selecionar uma pasta para sua fonte de publicacao
+PASSO3: aguarde enquanto o Github Pages conclui o processo de colocar seu site no ar
+
+O GitHub hospeda repositórios do Git e fornece aos desenvolvedores ferramentas para enviar um código melhor por meio das funcionalidades de linha de comando, problemas (discussões encadeadas), pull requests, revisão de código ou o uso de uma coleção de aplicativos grátis e para compra disponíveis 
+SEUS RECURSOS SAO: Dados organizados com tabelas,Seções recolhidas,Criar blocos de código,Criar diagramas,Expressões matemáticas,Referências vinculadas automaticamente,Anexando arquivos,Sobre listas de tarefas.
+SEUS COMANDOS SAO: git init,git clone,git add,git commit 
